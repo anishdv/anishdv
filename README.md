@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ## SOCIALS
 <a href="https://www.linkedin.com/in/anish-devnani/"><img align="left" src="https://raw.githubusercontent.com/anishdv/anishdv/master/images/linkedin.svg" alt="Anish Devnani | LinkedIn" width="50px"/></a>
-<a href="[https://instagram.com/anishdv](https://www.instagram.com/anish.dv_/?hl=en)"><img align="left" src="https://raw.githubusercontent.com/anishdv/anishdv/master/images/instagram.svg" alt="Anish Devnani | Instagram" width="50px"/></a>
+<a href="https://www.instagram.com/anish.dv_/?hl=en"><img align="left" src="https://raw.githubusercontent.com/anishdv/anishdv/master/images/instagram.svg" alt="Anish Devnani | Instagram" width="50px"/></a>
 <br/>
 <br/><br/>
 
