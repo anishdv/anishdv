@@ -1,7 +1,7 @@
 ### Hi there, I am Anish Devnani 👋
 
 <!-- <img width=1000 height=400 src="https://user-images.githubusercontent.com/91778054/171486317-97e726e1-9074-42fa-a64a-8593c238109d.png" alt=”my banner”> -->
-<img width=1000 height=400 src="https://user-images.githubusercontent.com/91778054/171486935-83cb8603-2faa-4bfd-8703-0453c762eb46.png" alt=”my banner”>
+<img width=600 height=300 src="https://user-images.githubusercontent.com/91778054/171486935-83cb8603-2faa-4bfd-8703-0453c762eb46.png" alt=”my banner”>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Solving DSA Sheet By [TAKEUFORWARD](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/)
