@@ -21,14 +21,16 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=003B57) -->
 
 
-## SOCIALS
-<a href="https://www.linkedin.com/in/anish-devnani/"><img align="left" src="https://raw.githubusercontent.com/anishdv/anishdv/master/images/linkedin.svg" alt="Anish Devnani | LinkedIn" width="50px"/></a>
-<a href="https://www.instagram.com/anish.dv_/?hl=en"><img align="left" src="https://raw.githubusercontent.com/anishdv/anishdv/master/images/instagram.svg" alt="Anish Devnani | Instagram" width="50px"/></a>
+## 🌐SOCIALS
+<a href="https://www.linkedin.com/in/anish-devnani/"><img align="center" src="https://raw.githubusercontent.com/anishdv/anishdv/master/images/linkedin.svg" alt="Anish Devnani | LinkedIn" width="40px"/></a>
+<a href="https://www.instagram.com/anish.dv_/?hl=en"><img align="center" src="https://raw.githubusercontent.com/anishdv/anishdv/master/images/instagram.svg" alt="Anish Devnani | Instagram" width="40px"/></a>
 <br/>
 <br/><br/>
 
 ## 📈GITHUB STATS
 ![Anish's GitHub stats](https://github-readme-stats.vercel.app/api?username=anishdv&show_icons=true&theme=default)
-## LANGUAGES
+## 💻LANGUAGES
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anishdv&layout=dracula)](https://github.com/anishdv)
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=anishdv&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> -->
+## ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
