@@ -4,7 +4,7 @@
 <!-- <img width=600 height=300 src="https://user-images.githubusercontent.com/91778054/171486935-83cb8603-2faa-4bfd-8703-0453c762eb46.png" alt=”my banner”> -->
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Solving DSA Sheet By [TAKEUFORWARD](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/)
+- 🔭 I’m currently working on Airbnb Plus 
 - 🌱 I’m currently learning Web Development
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
