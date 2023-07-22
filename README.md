@@ -29,8 +29,7 @@ Here are some ideas to get you started:
 
 ## 📈GITHUB STATS
 ![Anish's GitHub stats](https://github-readme-stats.vercel.app/api?username=anishdv&show_icons=true&theme=default)
-## 💻LANGUAGES
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anishdv&layout=dracula)](https://github.com/anishdv)
+
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=anishdv&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> -->
 ## ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
